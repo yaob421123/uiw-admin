@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c3b187d.css",
-    "main.js": "/static/js/main.cd4d3d78.js",
+    "main.js": "/static/js/main.61d7f300.js",
     "static/css/4771.c5c21010.chunk.css": "/static/css/4771.c5c21010.chunk.css",
     "static/js/4771.c829b0b6.chunk.js": "/static/js/4771.c829b0b6.chunk.js",
     "static/css/3991.2d434a68.chunk.css": "/static/css/3991.2d434a68.chunk.css",
@@ -79,7 +79,7 @@
     "static/media/r2g7rm.jpg": "/static/media/r2g7rm.c1f408daff26a9128797.jpg",
     "index.html": "/index.html",
     "main.4c3b187d.css.map": "/static/css/main.4c3b187d.css.map",
-    "main.cd4d3d78.js.map": "/static/js/main.cd4d3d78.js.map",
+    "main.61d7f300.js.map": "/static/js/main.61d7f300.js.map",
     "4771.c5c21010.chunk.css.map": "/static/css/4771.c5c21010.chunk.css.map",
     "4771.c829b0b6.chunk.js.map": "/static/js/4771.c829b0b6.chunk.js.map",
     "3991.2d434a68.chunk.css.map": "/static/css/3991.2d434a68.chunk.css.map",
@@ -160,6 +160,6 @@
     "static/js/uiw-vendor.d38c9326.js",
     "static/js/react-vendor.12f646e2.js",
     "static/css/main.4c3b187d.css",
-    "static/js/main.cd4d3d78.js"
+    "static/js/main.61d7f300.js"
   ]
 }
