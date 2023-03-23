@@ -49,7 +49,7 @@
     "@uiw-admin/document-title": "6.0.0",
     "@uiw-admin/router-control": "6.0.0",
     "@uiw-admin/utils": "6.0.0",
-    "classnames": "2.3.1"
+    "classnames": "2.3.2"
   },
   "devDependencies": {
     "@types/classnames": "2.3.1",
